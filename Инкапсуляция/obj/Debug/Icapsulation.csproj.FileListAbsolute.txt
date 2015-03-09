@@ -1,0 +1,6 @@
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Инкапсуляция\Инкапсуляция\bin\Debug\Инкапсуляция.exe.config
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Инкапсуляция\Инкапсуляция\bin\Debug\Инкапсуляция.exe
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Инкапсуляция\Инкапсуляция\bin\Debug\Инкапсуляция.pdb
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Инкапсуляция\Инкапсуляция\obj\Debug\Icapsulation.csprojResolveAssemblyReference.cache
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Инкапсуляция\Инкапсуляция\obj\Debug\Инкапсуляция.exe
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Инкапсуляция\Инкапсуляция\obj\Debug\Инкапсуляция.pdb
